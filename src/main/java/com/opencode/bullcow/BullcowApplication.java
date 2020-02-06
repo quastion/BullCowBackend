@@ -1,4 +1,4 @@
-package com.opencode.managment;
+package com.opencode.bullcow;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,9 +1,14 @@
-package com.opencode.managment.app;
+package com.opencode.bullcow.app;
 
 
 public class Response {
     private String answer;
     private String status;
+
+    public Response(String answer) {
+        this.answer = answer;
+        status = "GAME";
+    }
 
     public Response() {
     }

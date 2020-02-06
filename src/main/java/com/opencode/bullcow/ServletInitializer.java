@@ -1,4 +1,4 @@
-package com.opencode.managment;
+package com.opencode.bullcow;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
